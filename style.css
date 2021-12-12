@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Pintap-Icons-Display';
-  src:  url('fonts/Pintap-Icons-Display.eot?4ea2dz');
-  src:  url('fonts/Pintap-Icons-Display.eot?4ea2dz#iefix') format('embedded-opentype'),
-    url('fonts/Pintap-Icons-Display.ttf?4ea2dz') format('truetype'),
-    url('fonts/Pintap-Icons-Display.woff?4ea2dz') format('woff'),
-    url('fonts/Pintap-Icons-Display.svg?4ea2dz#Pintap-Icons-Display') format('svg');
+  src:  url('fonts/Pintap-Icons-Display.eot?cy6kcb');
+  src:  url('fonts/Pintap-Icons-Display.eot?cy6kcb#iefix') format('embedded-opentype'),
+    url('fonts/Pintap-Icons-Display.ttf?cy6kcb') format('truetype'),
+    url('fonts/Pintap-Icons-Display.woff?cy6kcb') format('woff'),
+    url('fonts/Pintap-Icons-Display.svg?cy6kcb#Pintap-Icons-Display') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-display-trash:before {
+  content: "\e9b0";
+}
+.icon-display-cloud-upload-outline:before {
+  content: "\e9b1";
+}
+.icon-display-copy:before {
+  content: "\e9b2";
+}
+.icon-display-qr-code:before {
+  content: "\e9b3";
+}
+.icon-display-scan-qr:before {
+  content: "\e9b4";
+}
+.icon-display-discount:before {
+  content: "\e9b5";
+}
+.icon-display-external-link:before {
+  content: "\e9b6";
+}
+.icon-display-reorder:before {
+  content: "\e9b7";
+}
+.icon-display-upload:before {
+  content: "\e9b8";
+}
 .icon-display-trophy:before {
   content: "\e9ad";
 }

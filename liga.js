@@ -25,6 +25,18 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'trash': '&#xe9b0;',
+            'bin': '&#xe9b0;',
+            'cloud-upload-outline': '&#xe9b1;',
+            'copy': '&#xe9b2;',
+            'clipboard': '&#xe9b2;',
+            'qr-code': '&#xe9b3;',
+            'scan-qr': '&#xe9b4;',
+            'discount': '&#xe9b5;',
+            'promo': '&#xe9b5;',
+            'external-link': '&#xe9b6;',
+            'reorder': '&#xe9b7;',
+            'upload': '&#xe9b8;',
             'trophy': '&#xe9ad;',
             'catalog': '&#xe9ae;',
             'collection': '&#xe9ae;',
