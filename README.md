@@ -4,6 +4,24 @@
 
 ## Changelogs:
 
+v1.6 (Dec 26, 2021):
+adding several more display icons:
+- chevron-forward-circle
+- chevron-back-circle
+- flag
+- broadcast
+
+v1.5 (Dec 12, 2021):
+adding several more display icons:
+- copy
+- cloud-upload
+- discount
+- external-link
+- qr-code
+- scan-qr
+- trash
+- upload
+
 v1.4:
 - adding catalog, dashboard-grid, and trophy display icons
 

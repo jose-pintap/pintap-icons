@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Pintap-Icons-Display';
-  src:  url('fonts/Pintap-Icons-Display.eot?cy6kcb');
-  src:  url('fonts/Pintap-Icons-Display.eot?cy6kcb#iefix') format('embedded-opentype'),
-    url('fonts/Pintap-Icons-Display.ttf?cy6kcb') format('truetype'),
-    url('fonts/Pintap-Icons-Display.woff?cy6kcb') format('woff'),
-    url('fonts/Pintap-Icons-Display.svg?cy6kcb#Pintap-Icons-Display') format('svg');
+  src:  url('fonts/Pintap-Icons-Display.eot?4tudwc');
+  src:  url('fonts/Pintap-Icons-Display.eot?4tudwc#iefix') format('embedded-opentype'),
+    url('fonts/Pintap-Icons-Display.ttf?4tudwc') format('truetype'),
+    url('fonts/Pintap-Icons-Display.woff?4tudwc') format('woff'),
+    url('fonts/Pintap-Icons-Display.svg?4tudwc#Pintap-Icons-Display') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-display-broadcast:before {
+  content: "\e9b9";
+}
+.icon-display-chevron-forward-circle:before {
+  content: "\e9ba";
+}
+.icon-display-chevron-back-circle:before {
+  content: "\e9bb";
+}
+.icon-display-flag:before {
+  content: "\e9bc";
+}
 .icon-display-trash:before {
   content: "\e9b0";
 }

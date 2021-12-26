@@ -25,6 +25,12 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'broadcast': '&#xe9b9;',
+            'chevron-forward-circle': '&#xe9ba;',
+            'chevron-right-circle': '&#xe9ba;',
+            'chevron-back-circle': '&#xe9bb;',
+            'chevron-left-circle': '&#xe9bb;',
+            'flag': '&#xe9bc;',
             'trash': '&#xe9b0;',
             'bin': '&#xe9b0;',
             'cloud-upload-outline': '&#xe9b1;',
