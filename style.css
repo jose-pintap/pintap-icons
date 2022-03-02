@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Pintap-Icons-Display';
-  src:  url('fonts/Pintap-Icons-Display.eot?kg6geb');
-  src:  url('fonts/Pintap-Icons-Display.eot?kg6geb#iefix') format('embedded-opentype'),
-    url('fonts/Pintap-Icons-Display.ttf?kg6geb') format('truetype'),
-    url('fonts/Pintap-Icons-Display.woff?kg6geb') format('woff'),
-    url('fonts/Pintap-Icons-Display.svg?kg6geb#Pintap-Icons-Display') format('svg');
+  src:  url('fonts/Pintap-Icons-Display.eot?dgjlyl');
+  src:  url('fonts/Pintap-Icons-Display.eot?dgjlyl#iefix') format('embedded-opentype'),
+    url('fonts/Pintap-Icons-Display.ttf?dgjlyl') format('truetype'),
+    url('fonts/Pintap-Icons-Display.woff?dgjlyl') format('woff'),
+    url('fonts/Pintap-Icons-Display.svg?dgjlyl#Pintap-Icons-Display') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-display-add-square-outline:before {
+  content: "\e9bd";
+}
+.icon-display-add-square:before {
+  content: "\e9be";
+}
+.icon-display-create-outline:before {
+  content: "\e9bf";
+}
+.icon-display-create:before {
+  content: "\e9c0";
+}
 .icon-display-broadcast:before {
   content: "\e9b9";
 }

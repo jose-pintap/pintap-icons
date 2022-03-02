@@ -4,6 +4,13 @@
 
 ## Changelogs:
 
+v1.7 (Mar 2, 2022):
+adding more display icons:
+- create-outline
+- create
+- add-square-outline
+- add-square
+
 v1.6 (Dec 26, 2021):
 adding several more display icons:
 - chevron-forward-circle
