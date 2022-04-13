@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'broadcast': '&#xe9b9;',
             'add-square-outline': '&#xe9bd;',
             'plus-square-outline': '&#xe9bd;',
             'add-square': '&#xe9be;',
@@ -33,7 +34,6 @@
             'compose-outline': '&#xe9bf;',
             'create': '&#xe9c0;',
             'compose': '&#xe9c0;',
-            'broadcast': '&#xe9b9;',
             'chevron-forward-circle': '&#xe9ba;',
             'chevron-right-circle': '&#xe9ba;',
             'chevron-back-circle': '&#xe9bb;',

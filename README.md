@@ -4,6 +4,9 @@
 
 ## Changelogs:
 
+v1.7.3 (Apr 13, 2022):
+simplify broadcast icon form
+
 v1.7 (Mar 2, 2022):
 adding more display icons:
 - create-outline
